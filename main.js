@@ -1,2 +1,2 @@
-const messageToDisplay = `server update holahola`;
+const messageToDisplay = `holahola`;
 document.write(messageToDisplay);
